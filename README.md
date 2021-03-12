@@ -22,21 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-- 🔭 I’m currently working on ...
-
-- 🌱 I’m currently learning ...
-
-- 👯 I’m looking to collaborate on ...
-
-- 🤔 I’m looking for help with ...
-
-- 💬 Ask me about ...
-
-- 📫 How to reach me: ...
-
-- 😄 Pronouns: ...
-
-- ⚡ Fun fact: ...
 
   
 
@@ -54,6 +39,7 @@ Here are some ideas to get you started:
 </div>
 <div style="padding: 20px">
 	<img alt="GIF" src="https://raw.githubusercontent.com/wencwcoder/wencwcoder/main/icon/code.gif" width="460"/>
+    <br /> <br />
     <div style="padding: 20px 0">
     	<p><b>Languages and Frameworks<b/><p/>
         <p>
