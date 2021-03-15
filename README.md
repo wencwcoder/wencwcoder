@@ -33,8 +33,10 @@ Here are some ideas to get you started:
         <img src="https://github-readme-stats.vercel.app/api?username=wencwcoder&title_color=fff&text_color=fff&show_icons=true&&bg_color=45,e66346,904e95" alt="wencwcoder's Stats">
 		-->
         <img width="460" style="margin: 10px 0" src="https://github-readme-stats.vercel.app/api?username=wencwcoder&show_icons=true&theme=vue-dark" alt="wencwcoder's Stats">
+        <!--
         <img width="460" style="margin: 10px 0" src="https://github-readme-stats.vercel.app/api/pin/?username=wencwcoder&repo=wencwcoder.github.io&show_owner=true" alt="wencwcoder's Repo">
         <img width="460" style="margin: 10px 0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wencwcoder&layout=compact" alt="wencwcoder's langs">
+        -->
     </a>
 </div>
 <div style="padding: 20px">
