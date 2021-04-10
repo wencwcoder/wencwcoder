@@ -57,10 +57,10 @@ Here are some ideas to get you started:
 </div>
 
 
-If you like what I do, maybe consider buying me a ☕ coffee/tea please 🥺👉👈
+<!-- If you like what I do, maybe consider buying me a ☕ coffee/tea please 🥺👉👈
 <div style="padding: 20px">
 	<a href="https://github.com/wencwcoder">
 		<img src="https://raw.githubusercontent.com/wencwcoder/wencwcoder/main/icon/buymeacoffee.png" alt="Buy Me A Coffee"width="150" >
 	<a/>
-<div/>
+<div/> -->
 
