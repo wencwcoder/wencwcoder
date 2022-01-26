@@ -45,14 +45,20 @@ Here are some ideas to get you started:
     <div style="padding: 20px 0">
     	<p><b>Languages and Frameworks<b/><p/>
         <p>
-            <img src="https://raw.githubusercontent.com/wencwcoder/wencwcoder/main/icon/javascript.png" alt="javascript">
+            <img src="https://raw.githubusercontent.com/wencwcoder/wencwcoder/main/icon/HTML.svg" alt="HTML">
+            <img src="https://raw.githubusercontent.com/wencwcoder/wencwcoder/main/icon/CSS3.svg" alt="CSS3">
             <img src="https://raw.githubusercontent.com/wencwcoder/wencwcoder/main/icon/JavaScript.svg" alt="JavaScript">
+            <img src="https://raw.githubusercontent.com/wencwcoder/wencwcoder/main/icon/TypeScript.svg" alt="TypeScript">
+            <img src="https://raw.githubusercontent.com/wencwcoder/wencwcoder/main/icon/Vue.svg" alt="Vue">
+            <img src="https://raw.githubusercontent.com/wencwcoder/wencwcoder/main/icon/React.svg" alt="React">
         <p/>
     <div/>
     <div style="padding: 20px 0">
     	<p><b>Tools and Environments<b/><p/>
         <p>
-            <img src="https://raw.githubusercontent.com/wencwcoder/wencwcoder/main/icon/vscode.png" alt="vscode">
+            <img src="https://raw.githubusercontent.com/wencwcoder/wencwcoder/main/icon/VSCode.svg" alt="VSCode">
+            <img src="https://raw.githubusercontent.com/wencwcoder/wencwcoder/main/icon/Chrome.svg" alt="Chrome">
+            <img src="https://raw.githubusercontent.com/wencwcoder/wencwcoder/main/icon/Nodejs.svg" alt="Nodejs">
         <p/>
     <div/>
 </div>
