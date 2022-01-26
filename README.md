@@ -46,6 +46,7 @@ Here are some ideas to get you started:
     	<p><b>Languages and Frameworks<b/><p/>
         <p>
             <img src="https://raw.githubusercontent.com/wencwcoder/wencwcoder/main/icon/javascript.png" alt="javascript">
+            <img src="https://raw.githubusercontent.com/wencwcoder/wencwcoder/main/icon/JavaScript.svg" alt="JavaScript">
         <p/>
     <div/>
     <div style="padding: 20px 0">
