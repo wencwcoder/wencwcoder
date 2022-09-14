@@ -39,13 +39,15 @@ Here are some ideas to get you started:
         -->
     </a>
 </div>
+
 <div style="padding: 20px">
 	<img alt="GIF" src="https://raw.githubusercontent.com/wencwcoder/wencwcoder/main/icon/code.gif" width="460"/>
-    <br /> <br />
+    <br />
+    <br />
     <div style="padding: 20px 0">
     	<p><b>Languages and Frameworks<b/><p/>
         <p>
-            <img src="https://raw.githubusercontent.com/wencwcoder/wencwcoder/main/icon/HTML.svg" alt="HTML">
+            <img src="https://raw.githubusercontent.com/wencwcoder/wencwcoder/main/icon/HTML5.svg" alt="HTML5">
             <img src="https://raw.githubusercontent.com/wencwcoder/wencwcoder/main/icon/CSS3.svg" alt="CSS3">
             <img src="https://raw.githubusercontent.com/wencwcoder/wencwcoder/main/icon/JavaScript.svg" alt="JavaScript">
             <img src="https://raw.githubusercontent.com/wencwcoder/wencwcoder/main/icon/TypeScript.svg" alt="TypeScript">
